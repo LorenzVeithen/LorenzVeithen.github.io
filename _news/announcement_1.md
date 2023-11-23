@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am delighted to announce that I just started my internship at the Flight Dynamics group of DLR/GSOC !
