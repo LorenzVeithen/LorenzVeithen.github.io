@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-09-01 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I am delighted to announce that I just started my internship at the Flight Dynamics group of DLR/GSOC !
+Started BSc in [Aerospace Engineering at the TU Delft](https://www.tudelft.nl/en/ae).

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Aerospace Engineering MSc student at the TU Delft
+subtitle: Research engineer devoted to bridging the gap between cutting edge technology and societal challenges.
 # <a href='#'>Affiliations</a>
 profile:
   align: right
@@ -15,13 +15,24 @@ news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+#However, my long-term ambition is to contribute to the Research and Development of advanced concepts and technologies as a research engineer in, and founder of, early-stage startups.
 ---
 
-Hi, happy to see you here ! My name is Lorenz Veithen, I am currently an MSc student in Aerospace Engineering at the TU Delft specialising in spaceflight. I wish to dedicate my career to bridging the gap between societal challenges and cutting-edge technologies.
-My interests range from numerical simulations, astrodynamics and space mission design to entrepreneurship.
+Hi, happy to see you here !
 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](_pages/publications) automatically.
+
+
+
+ My name is Lorenz Veithen, I am currently an MSc student in Aerospace Engineering at the TU Delft specialising in spaceflight engineering and dynamics. I am deeply passionate about bridging the gap between cutting-edge technologies and societal challenges, through both scientific research and entrepreneurship. My ambition is to contribute to the Research and Development of advanced concepts and technologies as a research engineer in, and founder of, early-stage startups. On the short-term, I wish to pursue a PhD in the field of numerical simulations used to develop disruptive technologies in fields lying at the heart of current challenges.
+
+
+
+
+
+Aside from my studies at the [Faculty of Aerospace Engineering of the TU Delft](https://www.tudelft.nl/en/ae), I have gained a wide experience in the design and analysis of aerospace systems through my past involvement at [Team Tumbleweed](https://www.teamtumbleweed.eu/our-vision/) and the [Delft Aerospace Rocketry Engineering (DARE)](https://dare.tudelft.nl) society, and in scientific research through my work at the [TU Delft Planetary Exploration group](https://www.delftplanetary.nl), the [Astrodynamics and Space Missions group](https://www.tudelft.nl/lr/organisatie/afdelingen/space-engineering/astrodynamics-and-space-missions), and [DLR-GSOC](https://www.dlr.de/en/research-and-transfer/projects-and-missions/iss/the-german-space-operations-center). During the 2023-2024 academic year, I have been selected as one of the 40 highest achieving students from the five leading engineering universities in Europe to take part in the [IDEA League Challenge Programme](https://idealeague.org/students/challengeprogramme/). Through these opportunities, I have become especially interested in the development of disruptive technologies lying at the heart of solutions of global challenges ranging from climate change and the space debris crisis to efficient ways to explore our solar system.
+
 
 
 
