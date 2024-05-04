@@ -1,81 +1,16 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+title: Stator-Rotor Compressor Simulation
+description: Computational Fluid Dynamics project performed during my exchange at EPFL.
+img: assets/img/RecirculationOnStator.png
+importance: 2
+category: 2021
+related_publications:
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The present report has the goal of investigating stator-rotor 2D interaction in an axial compressor. Axial compressors consist in a series of stages, composed of rotor and stator, in order to achieve high pressure in a gradual way. The kinetic energy of the fluid (usually air) is increased by the rotor, while in the stator the static pressure increases at the expense of the fluid velocity. In the field of turbomachinery, axial compressors are widely used in power generation or in the aeronautical field. The study is focused on the analysis of the evolution of velocity and pressure fields through a rotor-stator stage of a compressor. In particular, it is evaluated whether the compressor fulfills its compressing task by investigating the pressure difference over the rotor-stator stage.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The method used for the analysis of the compressor stage involves the use of different resources. The software SpaceClaim has been used to produce the 2D geometry. Due to the upward rotor movement, increasing the kinetic energy of the fluid, a sliding mesh is needed for the rotor region to simulate the compressor stage. The final mesh is obtained using a convergence study based on convergence of the pressure difference as well as the outlet velocity of the rotor-stator stage. A snapshot of the converged solution from ANSYS Fluent is finally used to analyse compression of the rotor-stator stage presented in this report. The overall goal of this work is to determine if the selected geometry is able to compress the flow and to investigate how the compression process takes place.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/NFS_Project.pdf" width="1000" height="1000" type="application/pdf"></object>

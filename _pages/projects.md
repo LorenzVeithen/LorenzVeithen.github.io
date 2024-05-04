@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A non-exhaustive collection of projects performed through my academic and personal journey.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [2024, 2023, 2022, 2021]
 horizontal: false
 ---
 

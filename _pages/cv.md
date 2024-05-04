@@ -1,4 +1,13 @@
 ---
+layout: redirected
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 4
+redirect_to: /assets/pdf/LorenzVeithen_CV.pdf
+---
+
+<!-- ---
 layout: cv
 permalink: assets/pdf/LorenzVeithen_CV.pdf
 title: CV
@@ -8,4 +17,4 @@ cv_pdf:
 description:
 toc:
   sidebar: left
----
+--- -->
