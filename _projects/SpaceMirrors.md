@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Review of a Futuristic Geo-Engineering Technique
+title:  Review of a Futuristic Geo-Engineering Technique Based on Space Mirrors
 description: Project performed as part of the "Can We Cool The Earth" course from the TU Delft.
 img: assets/img/SM_TU.jpg
 importance: 3
