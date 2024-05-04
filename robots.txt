@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lveithen.github.io/sitemap.xml
+Sitemap: https://LorenzVeithen.github.io/sitemap.xml
