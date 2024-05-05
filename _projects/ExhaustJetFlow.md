@@ -4,7 +4,7 @@ title: Exhaust Jet Flow Modelling
 description: Exhaust jet flow modelling using the method of characteristics for the Gas Dynamics course from the TU Delft.
 img: assets/img/jet.jpg
 importance: 4
-category: 2022
+category: MSc Academic Work
 related_publications:
 ---
 

@@ -4,7 +4,7 @@ title: Triton Lander Mission Proposal
 description: Mission proposal for a lander mission on Triton, Neptune's only moon.
 img: assets/img/TritonLander.jpg
 importance: 4
-category: 2023
+category: MSc Academic Work
 related_publications:
 ---
 

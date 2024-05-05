@@ -4,7 +4,7 @@ title: Propagation and Optimisation of a Lunar Ascent Mission
 description: Set of four reports performed as part of the Propagation & Optimisation course of the TU Delft.
 img: assets/img/PO_Final_Background.jpg
 importance: 1
-category: 2023
+category: MSc Academic Work
 related_publications:
 ---
 

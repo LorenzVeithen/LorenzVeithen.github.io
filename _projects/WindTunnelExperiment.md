@@ -4,7 +4,7 @@ title: Wind Tunnel Experiment
 description: Assessment of the characteristics of an airfoil and a 3D wing using wind tunnel tests and numerical simulations.
 img: assets/img/LTT-windtunnel-large.jpg
 importance: 3
-category: 2021
+category: BSc Academic Work
 related_publications:
 ---
 

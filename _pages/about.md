@@ -25,7 +25,7 @@ Hi, happy to see you here !
 
 
 
- My name is Lorenz Veithen, I am currently an MSc student in Aerospace Engineering at the TU Delft specialising in spaceflight engineering and dynamics. I am deeply passionate about bridging the gap between cutting-edge technologies and societal challenges, through both scientific research and entrepreneurship. My ambition is to contribute to the Research and Development of advanced concepts and technologies as a research engineer in, and founder of, early-stage startups. On the short-term, I wish to pursue a PhD in the field of numerical simulations used to develop disruptive technologies in fields lying at the heart of current challenges.
+ I am currently an MSc student in Aerospace Engineering at the TU Delft specialising in spaceflight engineering and dynamics. I am deeply passionate about bridging the gap between cutting-edge technologies and societal challenges, through both scientific research and entrepreneurship. My ambition is to contribute to the Research and Development of advanced concepts and technologies as a research engineer in, and founder of, early-stage startups. On the short-term, I wish to pursue a PhD in the field of numerical simulations used to develop disruptive technologies in fields lying at the heart of current challenges.
 
 
 

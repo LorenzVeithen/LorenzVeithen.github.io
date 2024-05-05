@@ -5,7 +5,7 @@ permalink: /projects/
 description: A non-exhaustive collection of projects performed through my academic and personal journey.
 nav: true
 nav_order: 2
-display_categories: [2024, 2023, 2022, 2021]
+display_categories: [Independent Research, MSc Academic Work, BSc Academic Work]
 horizontal: false
 ---
 

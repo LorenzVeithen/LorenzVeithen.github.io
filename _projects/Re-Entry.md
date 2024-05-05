@@ -4,7 +4,7 @@ title: Analysis of Selected Atmospheric Entry Trajectory Aspects
 description: Set of four reports performed as part of the Re-Entry course of the TU Delft.
 img: assets/img/Re-Entry.jpg
 importance: 3
-category: 2022
+category: MSc Academic Work
 related_publications:
 ---
 

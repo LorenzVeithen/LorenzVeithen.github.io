@@ -4,7 +4,7 @@ title: Implementation and Improvements of the Q-Law
 description: Development of a computing software to generate near-optimal low-thrust trajectories, performed at the German Aerospace Agency.
 img: assets/img/DLR_Research.png
 importance: 2
-category: 2024
+category: Independent Research
 related_publications: veithen2024QLaw
 ---
 

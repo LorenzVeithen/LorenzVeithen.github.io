@@ -4,7 +4,7 @@ title: Stator-Rotor Compressor Simulation
 description: Computational Fluid Dynamics project performed during my exchange at EPFL.
 img: assets/img/RecirculationOnStator.png
 importance: 2
-category: 2021
+category: BSc Academic Work 
 related_publications:
 ---
 

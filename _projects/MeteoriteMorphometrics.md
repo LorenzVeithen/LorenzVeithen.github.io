@@ -4,7 +4,7 @@ title: Evaluation of Meteorites Entry through their Surface Features
 description: Research performed as part of the Bachelor Honours Programme of the TU Delft.
 img: assets/img/IMC4_regmaglypts_fig1.png
 importance: 2
-category: 2022
+category: Independent Research
 related_publications: veithen2024morphometrics
 ---
 

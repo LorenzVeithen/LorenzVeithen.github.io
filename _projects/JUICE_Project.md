@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Design of the JUICE Spacecraft
 description: Set of five reports performed as part of the Aerospace System Design course of the TU Delft.
@@ -26,4 +26,4 @@ related_publications:
 
 <h2> Detailed Design of JUICE's Propellant Tanks</h2>
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/B11_WP5.pdf" width="353" height="500" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/B11_WP5.pdf" width="353" height="500" type="application/pdf"></object> -->

@@ -4,7 +4,7 @@ title: The SHEAR Project
 description: Flight-proving of a novel cost-efficient and simple to manufacture heat shield.
 img: assets/img/SHEAR.png
 importance: 7
-category: 2023
+category: Independent Research
 related_publications:
 ---
 

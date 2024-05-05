@@ -4,7 +4,7 @@ title: Space Sweeper Mission Design
 description: Design of a space debris removal mission targeting objects of size 1-10cm.
 img: assets/img/LOGO.png
 importance: 1
-category: 2022
+category: Independent Research
 related_publications: Bogel2024LDR
 ---
 

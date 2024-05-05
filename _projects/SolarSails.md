@@ -4,7 +4,7 @@ title: Solar Sail Attitude and Trajectory Dynamics under Hypervelocity Impacts
 description: Master thesis part of my studies at the TU Delft.
 img: assets/img/ACS3.jpg
 importance: 1
-category: 2024
+category: Independent Research
 related_publications:
 ---
 

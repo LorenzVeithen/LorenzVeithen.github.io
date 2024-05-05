@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Street Light Design Optimisation
 description: Engineering optimisation assignment.
@@ -12,4 +12,4 @@ Lighting of highways plays a pivotal role in ensuring the safety of its drivers 
 
 
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/EngOptAssignment.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/EngOptAssignment.pdf" width="1000" height="1000" type="application/pdf"></object> -->
