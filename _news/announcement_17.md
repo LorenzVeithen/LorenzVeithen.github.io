@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started an MPhil in Scientific Computing at the University of Cambridge.
+Started an MPhil in Scientific Computing at the [University of Cambridge](https://www.cam.ac.uk).
