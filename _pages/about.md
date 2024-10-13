@@ -6,7 +6,7 @@ subtitle: Research engineer devoted to bridging the gap between cutting edge tec
 # <a href='#'>Affiliations</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Currently based in Cambridge, UK.</p>
