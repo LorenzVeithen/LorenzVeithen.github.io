@@ -25,7 +25,9 @@ Hi, happy to see you here !
 
 
 
- I am an MPhil student in Scientific Computing at the University of Cambridge specialising in the modelling of continuum mechanics. Previously, I obtained an MSc in Aerospace Engineering at the TU Delft specialising in spaceflight dynamics and engineering. I am passionate about bridging the gap between cutting-edge technologies and societal challenges, through both scientific research and entrepreneurship. My ambition is to contribute to the Research and Development of advanced concepts and technologies as a research engineer in, and founder of, early-stage startups.
+ I am an MPhil student in Scientific Computing at the University of Cambridge specialising in the modelling of continuum mechanics. Previously, I obtained an MSc in Aerospace Engineering at the TU Delft specialising in spaceflight dynamics and engineering. I am passionate about bridging the gap between cutting-edge technologies and societal challenges, through both scientific research and entrepreneurship. My along-term ambition is to contribute to the Research and Development of advanced concepts and technologies as a research engineer in, and founder of, early-stage startups. My current research interests lie in the development and use of numerical methods at continuum-level.
+
+
 <!-- On the short-term, I wish to pursue a PhD in the field of numerical simulations used to develop disruptive technologies in fields lying at the heart of current challenges.-->
 
 
