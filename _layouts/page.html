@@ -5,7 +5,17 @@ layout: default
 <div class="post">
 
   <header class="post-header">
+    {% if page.lang_switch %}
+    <div class="d-flex flex-wrap align-items-center justify-content-between gap-2">
+      <h1 class="post-title mb-0">{{ page.title }}</h1>
+      <div class="lang-switch" role="tablist" aria-label="Language switcher">
+        <button type="button" class="btn btn-sm btn-primary lang-btn active" data-lang-target="en" aria-pressed="true">EN</button>
+        <button type="button" class="btn btn-sm btn-outline-primary lang-btn" data-lang-target="fr">FR</button>
+      </div>
+    </div>
+    {% else %}
     <h1 class="post-title">{{ page.title }}</h1>
+    {% endif %}
     <p class="post-description">{{ page.description }}</p>
   </header>
 
